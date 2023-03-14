@@ -1,4 +1,4 @@
-![ ]([[https://drive.google.com/file/d/1Wlg_zWgDKZUYvdzRMwqYwVjcWz8-hsTI/view?usp=sharing](https://www.dropbox.com/s/uxm9c6f8k4ed5sc/Covid%20cover.jpg?dl=0)](https://www.dropbox.com/s/uxm9c6f8k4ed5sc/Covid%20cover.jpg?dl=0))
+![ ](Covid_cover.jpg)
 
 # Covid-19 Global Impact
 
