@@ -1,4 +1,4 @@
-![ ](Covid_cover.jpg)
+![ ](cover_covid_steth.png)
 
 # Covid-19 Global Impact
 
